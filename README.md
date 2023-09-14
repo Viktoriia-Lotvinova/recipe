@@ -1,6 +1,7 @@
 # recipe
 
-This template should help get you started developing with Vue 3 in Vite.
+Recipe is a minimalist web application developed to demonstrate skills in Vue 3, Vuex, options, and the Composition API. 
+While it prioritizes functionality over fancy UI design, Recipe serves as a practical example of managing state and building a Vue application using options, and the Composition API. 
 
 ## Recommended IDE Setup
 
